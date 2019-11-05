@@ -10,4 +10,5 @@ em muitas outras LPs) que ao rodar solicita, uma entrada para o lado da 'placa b
 retornado qual o valor ideal do quadrado destacado para obtermos o maior
 volume possivel. a simplicidade desse arquivo permite uma facil compreensão da abordagem
 usada e fácil transliteração/tradução para outras LPs.<p>O arquivo 'Otimiza_func.ipynb'
-é apenas um conteiner de testes.
+é apenas um conteiner de testes, enquanto que 'optm.py' serve algumas funções para 'Otimização.ipynb'.
+
